@@ -2,6 +2,8 @@
 
 A collection of Real-time data dashboards related to Ethereum
 
+**Pull Requests are encouraged and welcome :)**
+
 
 ## News Dashboards
 
@@ -26,11 +28,11 @@ A collection of Real-time data dashboards related to Ethereum
 
 ## MEV Dashboards
 
-https://transparency.flashbots.net
-https://mevboost.org
-https://mevboost.pics
-https://mevwatch.info
-https://eigenphi.io
+* https://transparency.flashbots.net
+* https://mevboost.org
+* https://mevboost.pics
+* https://mevwatch.info
+* https://eigenphi.io
 
 ## Dune Analytics Dashboards
 
