@@ -4,7 +4,7 @@ A collection of Real-time data dashboards related to Ethereum
 
 ## Ecosystem Dashboards
 
-[Project Sunshine](https://ethsunshine.com)
+* [Project Sunshine](https://ethsunshine.com)
 
 ## Decentralization Dashboards
 
