@@ -2,11 +2,11 @@
 
 A collection of Real-time data dashboards related to Ethereum
 
-## Ecosystem Dashboards
+## Ecosystem Health Dashboards
 
 * [Project Sunshine](https://ethsunshine.com)
 
-## News
+## News Dashboards
 
 * [Alpha Day](https://app.alphaday.com/)
 
