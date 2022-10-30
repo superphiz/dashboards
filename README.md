@@ -2,16 +2,14 @@
 
 A collection of Real-time data dashboards related to Ethereum
 
-## Ecosystem Health Dashboards
-
-* [Project Sunshine](https://ethsunshine.com)
 
 ## News Dashboards
 
 * [Alpha Day](https://app.alphaday.com/)
 
-## Decentralization Dashboards
+## Ecosystem Health Dashboards
 
+* [Project Sunshine](https://ethsunshine.com)
 * [NodeWatch](https://nodewatch.io)
 * [Miga Labs Crawler](https://migalabs.es/crawler/dashboard)
 
