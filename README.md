@@ -6,6 +6,10 @@ A collection of Real-time data dashboards related to Ethereum
 
 * [Project Sunshine](https://ethsunshine.com)
 
+## News
+
+* [Alpha Day](https://app.alphaday.com/)
+
 ## Decentralization Dashboards
 
 * [NodeWatch](https://nodewatch.io)
