@@ -5,15 +5,17 @@ A collection of Real-time data dashboards related to Ethereum
 **Pull Requests are encouraged and welcome :)**
 
 
-## News Dashboards
+## General Dashboards
 
-* [Alpha Day](https://app.alphaday.com/)
+* [AlphaDay](https://app.alphaday.com/)
+* [Rotki](https://rotki.com/)
 
 ## Ecosystem Health Dashboards
 
 * [Project Sunshine](https://ethsunshine.com)
 * [NodeWatch](https://nodewatch.io)
 * [Miga Labs Crawler](https://migalabs.es/crawler/dashboard)
+* [Ethereum Nodes Statistics](https://ethernodes.org/)
 
 ## Staking Dashboards
 
@@ -21,6 +23,7 @@ A collection of Real-time data dashboards related to Ethereum
 * [Client Diversity.org](https://clientdiversity.org)
 * [Ethereum Pools.info](https://ethereumpools.info/d/ox1NIwf7k/ethereumpools-public?orgId=1&kiosk&refresh=5m)
 * [EthSta.com](https://ethsta.com)
+* [Beaconchain](https://beaconcha.in)
 
 ## Monetary Policy Dashboards
 
@@ -42,3 +45,7 @@ A collection of Real-time data dashboards related to Ethereum
 
 * [Hildobby's beacon chain deposit dashboard](https://dune.com/hildobby/ETH2-Deposits)
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
+
+## NFTs
+
+* [icy.tools](https://icy.tools/)
