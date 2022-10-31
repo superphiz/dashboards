@@ -5,9 +5,9 @@ A collection of Real-time data dashboards related to Ethereum
 **Pull Requests are encouraged and welcome :)**
 
 
-## News Dashboards
+## General Dashboards
 
-* [Alpha Day](https://app.alphaday.com/)
+* [AlphaDay](https://app.alphaday.com/)
 
 ## Ecosystem Health Dashboards
 
