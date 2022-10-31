@@ -24,6 +24,7 @@ A collection of Real-time data dashboards related to Ethereum
 * [Ethereum Pools.info](https://ethereumpools.info/d/ox1NIwf7k/ethereumpools-public?orgId=1&kiosk&refresh=5m)
 * [EthSta.com](https://ethsta.com)
 * [Beaconchain](https://beaconcha.in)
+* [Rocket Pool](https://rocketscan.io)
 
 ## Monetary Policy Dashboards
 
