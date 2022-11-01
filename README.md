@@ -19,7 +19,7 @@ A collection of Real-time data dashboards related to Ethereum
 
 ## Staking Dashboards
 
-* [Rated.Network](https://dune.com/hildobby/ETH2-Deposits)
+* [Rated.Network](https://www.rated.network/?network=mainnet&view=entity)
 * [Client Diversity.org](https://clientdiversity.org)
 * [Ethereum Pools.info](https://ethereumpools.info/d/ox1NIwf7k/ethereumpools-public?orgId=1&kiosk&refresh=5m)
 * [EthSta.com](https://ethsta.com)
