@@ -34,6 +34,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [UltraSound Money](https://ultrasound.money/)
 * [Ratio Gang](https://ratiogang.com/)
+* [Flippening Watch](https://www.flippening.watch)
 
 ## DeFi Dashboards
 
@@ -50,6 +51,8 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * https://www.inclusion.watch/
 * https://mev-relays.beaconstate.info/
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
+* [Tornado Warnings](https://tornado-warning.info)
+* [Relays from beaconcha.in](https://beaconcha.in/relays)
 
 ## NFTs
 
