@@ -4,6 +4,8 @@ A collection of Real-time data dashboards related to Ethereum
 
 **Pull Requests are encouraged and welcome :)**
 
+See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@mfbevan](https://twitter.com/mfbevan)
+
 
 ## General Dashboards
 
