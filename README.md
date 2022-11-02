@@ -25,6 +25,7 @@ A collection of Real-time data dashboards related to Ethereum
 * [EthSta.com](https://ethsta.com)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
+* [Hildobby's beacon chain deposit dashboard](https://dune.com/hildobby/ETH2-Deposits)
 
 ## Monetary Policy Dashboards
 
@@ -43,10 +44,8 @@ A collection of Real-time data dashboards related to Ethereum
 * https://mevboost.pics
 * https://mevwatch.info
 * https://eigenphi.io
-
-## Dune Analytics Dashboards
-
-* [Hildobby's beacon chain deposit dashboard](https://dune.com/hildobby/ETH2-Deposits)
+* https://www.inclusion.watch/
+* https://mev-relays.beaconstate.info/
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 
 ## NFTs
