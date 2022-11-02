@@ -7,6 +7,7 @@ A collection of Real-time data dashboards related to Ethereum
 
 ## General Dashboards
 
+* [EthDash](https://ethdash.xyz)
 * [AlphaDay](https://app.alphaday.com/)
 * [Rotki](https://rotki.com/)
 
