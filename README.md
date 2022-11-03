@@ -40,6 +40,8 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [DeFi Llama](https://defillama.com/)
 * [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
+* [Stablecoins.wtf](https://stablecoins.wtf)
+
 
 ## MEV Dashboards
 
