@@ -10,7 +10,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 ## General Dashboards
 
 * [EthDash](https://ethdash.xyz)
-* [AlphaDay](https://app.alphaday.com/)
+* [Alphaday](https://app.alphaday.com/)
 * [Rotki](https://rotki.com/)
 
 ## Ecosystem Health Dashboards
@@ -22,25 +22,25 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 ## Staking Dashboards
 
-* [Rated.Network](https://www.rated.network/?network=mainnet&view=entity)
+* [Rated.Network](https://www.rated.network/)
 * [Client Diversity.org](https://clientdiversity.org)
-* [Ethereum Pools.info](https://ethereumpools.info/d/ox1NIwf7k/ethereumpools-public?orgId=1&kiosk&refresh=5m)
+* [Ethereum Pools.info](https://ethereumpools.info/)
 * [EthSta.com](https://ethsta.com)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
-* [Hildobby's beacon chain deposit dashboard](https://dune.com/hildobby/ETH2-Deposits)
+* [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/ETH2-Deposits)
 
 ## Monetary Policy Dashboards
 
 * [UltraSound Money](https://ultrasound.money/)
 * [Ratio Gang](https://ratiogang.com/)
-* [Flippening Watch](https://www.flippening.watch)
+* [Flippening Watch](https://www.flippening.watch/)
 
 ## DeFi Dashboards
 
 * [DeFi Llama](https://defillama.com/)
-* [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
-* [Stablecoins.wtf](https://stablecoins.wtf)
+* [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit/)
+* [Stablecoins.wtf](https://stablecoins.wtf/)
 
 
 ## MEV Dashboards
@@ -55,6 +55,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Tornado Warnings](https://tornado-warning.info)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
+
 
 ## NFTs
 
