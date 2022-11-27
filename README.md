@@ -60,3 +60,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 ## NFTs
 
 * [icy.tools](https://icy.tools/)
+
+## Privacy
+
+* [RPC Endpoint censorship](https://chainlist.org/chain/1)
