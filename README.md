@@ -55,6 +55,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Tornado Warnings](https://tornado-warning.info)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
+* [Metrika Relay Monitor](https://app.metrika.co/dashboard/ethereum/relay-monitor/north-america-east?tr=30m)
 
 
 ## NFTs
