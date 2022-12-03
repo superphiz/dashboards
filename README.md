@@ -64,6 +64,4 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [EthDash](https://www.ethdash.xyz/)
 * [Panarama](https://panarama.xyz/) 
-* [EthDash](https://ethdash.xyz)
 * [Alphaday](https://app.alphaday.com/)
-* [Rotki](https://rotki.com/)
