@@ -6,13 +6,6 @@ A collection of Real-time data dashboards related to Ethereum
 
 See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@mfbevan](https://twitter.com/mfbevan)
 
-
-## General Dashboards
-
-* [EthDash](https://ethdash.xyz)
-* [Alphaday](https://app.alphaday.com/)
-* [Rotki](https://rotki.com/)
-
 ## Ecosystem Health Dashboards
 
 * [Project Sunshine](https://ethsunshine.com)
@@ -69,5 +62,8 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 # Related Projects (Other Dashboard Aggregators)
 
-* https://www.ethdash.xyz/
-* https://panarama.xyz/ 
+* [EthDash](https://www.ethdash.xyz/)
+* [Panarama](https://panarama.xyz/) 
+* [EthDash](https://ethdash.xyz)
+* [Alphaday](https://app.alphaday.com/)
+* [Rotki](https://rotki.com/)
