@@ -21,7 +21,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [EthSta.com](https://ethsta.com)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
-* [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/ETH2-Deposits)
+* [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/eth2-staking)
 * [Lucky Staker](https://luckystaker.com/home)
 
 ## Monetary Policy Dashboards
