@@ -56,8 +56,9 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [icy.tools](https://icy.tools/)
 
-## Privacy
+## Censorship Resistance 
 
+* [Valitraitors](https://valitraitors.info/)
 * [RPC Endpoint censorship](https://chainlist.org/chain/1)
 * [Tornado Warnings](https://tornado-warning.info)
 
