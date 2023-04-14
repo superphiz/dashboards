@@ -24,7 +24,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Rated.Network](https://www.rated.network/)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
-* [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/eth2-staking)
+* [Hildobby's ETH Staking Dashboard](https://dune.com/hildobby/eth2-staking)
 * [Lucky Staker](https://luckystaker.com/home)
 * [Nansen Withdrawals dashboard](https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ)
 
