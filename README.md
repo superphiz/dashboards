@@ -26,6 +26,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Rocket Pool](https://rocketscan.io)
 * [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/eth2-staking)
 * [Lucky Staker](https://luckystaker.com/home)
+* [Nansen Withdrawals dashboard](https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ)
 
 ## Monetary Policy Dashboards
 
