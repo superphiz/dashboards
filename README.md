@@ -22,7 +22,6 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 ## Staking Dashboards
 
 * [Rated.Network](https://www.rated.network/)
-* [EthSta.com](https://ethsta.com)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
 * [Hildobby's ETH Staking Deposits](https://dune.com/hildobby/eth2-staking)
