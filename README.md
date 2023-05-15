@@ -28,6 +28,8 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Hildobby's ETH Staking Dashboard](https://dune.com/hildobby/eth2-staking)
 * [Lucky Staker](https://luckystaker.com/home)
 * [Nansen Withdrawals dashboard](https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ)
+* [Validator Queue Monitoring](https://validator-queue-monitoring.vercel.app/)
+* [WenMerge with queue data][https://wenmerge.com]
 
 ## Monetary Policy Dashboards
 
