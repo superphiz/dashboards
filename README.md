@@ -30,6 +30,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Nansen Withdrawals dashboard](https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ)
 * [Validator Queue Monitoring](https://validator-queue-monitoring.vercel.app/)
 * [WenMerge with queue data][https://wenmerge.com]
+* [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
 
 ## Monetary Policy Dashboards
 
