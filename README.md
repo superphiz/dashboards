@@ -31,6 +31,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Validator Queue Monitoring](https://validator-queue-monitoring.vercel.app/)
 * [WenMerge with queue data](https://wenmerge.com)
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
+* [Validator Queue by Hanni Abu](https://validatorqueue.com)
 
 ## Monetary Policy Dashboards
 
