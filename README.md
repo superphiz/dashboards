@@ -47,7 +47,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 
 ## MEV Dashboards
-
+* https://payload.de/data/
 * https://transparency.flashbots.net
 * https://mevboost.org
 * https://mevboost.pics
