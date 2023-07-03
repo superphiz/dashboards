@@ -54,7 +54,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * https://mevwatch.info
 * https://eigenphi.io
 * https://www.inclusion.watch/
-* [https://mev-relays.beaconstate.info/] MEV uptime info
+* [https://mev-relays.beaconstate.info/](MEV uptime info)
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
 * [Metrika Relay Monitor](https://app.metrika.co/dashboard/ethereum/relay-monitor/north-america-east?tr=30m)
