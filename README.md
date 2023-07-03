@@ -49,21 +49,17 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 ## MEV Dashboards
 * https://payload.de/data/
 * https://transparency.flashbots.net
-* https://mevboost.org
+* https://mevboost.org (remove if still down)
 * https://mevboost.pics
 * https://mevwatch.info
 * https://eigenphi.io
 * https://www.inclusion.watch/
-* https://mev-relays.beaconstate.info/
+* [https://mev-relays.beaconstate.info/] MEV uptime info
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
 * [Metrika Relay Monitor](https://app.metrika.co/dashboard/ethereum/relay-monitor/north-america-east?tr=30m)
 * [Rated.Network Relay Landscape](https://www.rated.network/relays?network=mainnet)
 
-
-## NFTs
-
-* [icy.tools](https://icy.tools/)
 
 # Related Projects (Other Dashboard Aggregators)
 
