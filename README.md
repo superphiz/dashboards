@@ -17,6 +17,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 ## Diversity/Decentralization Dashboards
 
+* **[Etherclients.com](https://etherclients.com)**
 * [Execution-Diversity](https://execution-diversity.info/)
 * [Client Diversity.org](https://clientdiversity.org)
 
