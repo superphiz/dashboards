@@ -47,12 +47,15 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Stablecoins.wtf](https://stablecoins.wtf/)
 
 
-## MEV Dashboards
+## MEV & PBS Dashboards
 * [Mempool.pics](https://mempool.pics)
 * https://payload.de/data/
 * https://transparency.flashbots.net
-* https://mevboost.org (remove if still down)
 * https://mevboost.pics
+* https://censorship.pics
+* https://reorg.pics
+* https://timing.pics
+* https://tornado.pics
 * https://mevwatch.info
 * https://eigenphi.io
 * https://www.inclusion.watch/
