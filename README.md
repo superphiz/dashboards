@@ -23,6 +23,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 ## Staking Dashboards
 
+* [EthSeer from Miga Labs](https://ethseer.io/?network=mainnet)
 * [Rated.Network](https://www.rated.network/)
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
