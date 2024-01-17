@@ -20,6 +20,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * **[Etherclients.com](https://etherclients.com)**
 * [Execution-Diversity](https://execution-diversity.info/)
 * [Client Diversity.org](https://clientdiversity.org)
+* [Ethernets.io Node Crawler](https://www.ethernets.io/)
 
 ## Staking Dashboards
 
