@@ -21,6 +21,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Execution-Diversity](https://execution-diversity.info/)
 * [Client Diversity.org](https://clientdiversity.org)
 * [Ethernets.io Node Crawler](https://www.ethernets.io/)
+* [Ulisse](https://chainbound.grafana.net/public-dashboards/b39ed764b36548a2a74024eab3de2fe3?orgId=1&refresh=1h)
 
 ## Staking Dashboards
 
