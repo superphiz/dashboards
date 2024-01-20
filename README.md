@@ -37,6 +37,9 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
 * [Validator Queue by Hanni Abu](https://validatorqueue.com)
 
+## Restaking Dashboards
+* [Restaking dashboard from Nethermind](https://restaking.nethermind.io/)
+
 ## Monetary Policy Dashboards
 
 * [UltraSound Money](https://ultrasound.money/)
