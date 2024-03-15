@@ -36,6 +36,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [WenMerge with queue data](https://wenmerge.com)
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
 * [Validator Queue by Hanni Abu](https://validatorqueue.com)
+* [ReOrg.pics](https://reorg.pics/)
 
 ## Layer 2 (L2)
 
