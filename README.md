@@ -37,6 +37,16 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
 * [Validator Queue by Hanni Abu](https://validatorqueue.com)
 
+## L2 Fees
+
+* [L2 Fees dot info](https://l2fees.info/)
+
+## Blobs 
+
+* [Hildobby's Dune Dashboard for Blobs](https://dune.com/hildobby/blobs)
+* [Blobscan](https://blobscan.com]
+* [Grow The Pie](https://fees-growthepie.streamlit.app/)
+
 ## Restaking Dashboards
 * [Restaking dashboard from Nethermind](https://restaking.nethermind.io/)
 
