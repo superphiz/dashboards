@@ -41,12 +41,15 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [L2 Beat](https://l2beat.com)
 * [L2 Fees dot info](https://l2fees.info/)
+* [Grow The Pie](https://www.growthepie.xyz/)
 
 ## Blobs 
 
 * [Hildobby's Dune Dashboard for Blobs](https://dune.com/hildobby/blobs)
 * [Blobscan](https://blobscan.com)
 * [Grow The Pie](https://fees-growthepie.streamlit.app/)
+* [Ethernow](http://ethernow.xyz)
+* [0xRob's Dune Dashboard for Blobs](https://dune.com/0xRob/blobs)
 
 ## Restaking Dashboards
 * [Restaking dashboard from Nethermind](https://restaking.nethermind.io/)
