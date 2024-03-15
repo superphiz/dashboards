@@ -31,7 +31,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Rocket Pool](https://rocketscan.io)
 * [Hildobby's ETH Staking Dashboard](https://dune.com/hildobby/eth2-staking)
 * [Lucky Staker](https://luckystaker.com/home)
-* [Nansen Withdrawals dashboard](https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ)
+* [Nansen Staking dashboard](https://pro.nansen.ai/eth2-deposit-contract)
 * [Validator Queue Monitoring](https://validator-queue-monitoring.vercel.app/)
 * [WenMerge with queue data](https://wenmerge.com)
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
