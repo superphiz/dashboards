@@ -13,7 +13,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Gnosis d14n](https://d14n.info/ethereum)
 * [Miga Labs Dashboard](https://monitoreth.io)
 * [Ethereum Nodes Statistics](https://ethernodes.org/)
-
+* [Ulisse](https://chainbound.grafana.net/public-dashboards/b39ed764b36548a2a74024eab3de2fe3?orgId=1&refresh=1h)
 
 ## Diversity/Decentralization Dashboards
 
