@@ -37,8 +37,9 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * [Parsec stEth withdrawals](https://app.parsec.finance/layout/wilburforce/dE0XOJyv)
 * [Validator Queue by Hanni Abu](https://validatorqueue.com)
 
-## L2 Fees
+## L2
 
+* [L2 Beat](https://l2beat.com)
 * [L2 Fees dot info](https://l2fees.info/)
 
 ## Blobs 
