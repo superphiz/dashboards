@@ -45,7 +45,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 ## Blobs 
 
 * [Hildobby's Dune Dashboard for Blobs](https://dune.com/hildobby/blobs)
-* [Blobscan](https://blobscan.com]
+* [Blobscan](https://blobscan.com)
 * [Grow The Pie](https://fees-growthepie.streamlit.app/)
 
 ## Restaking Dashboards
