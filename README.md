@@ -41,7 +41,6 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [L2 Beat](https://l2beat.com)
 * [L2 Fees dot info](https://l2fees.info/)
-* [Grow The Pie](https://www.growthepie.xyz/)
 
 ## Blobs 
 
