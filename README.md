@@ -4,24 +4,21 @@ A collection of Real-time data dashboards related to Ethereum
 
 **Pull Requests are encouraged and welcome :)**
 
-See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@mfbevan](https://twitter.com/mfbevan)
+See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboards) thanks to [@mfbevan](https://twitter.com/mfbevan)
 
 ## Ecosystem Health Dashboards
 
 * [Project Sunshine](https://ethsunshine.com)
 * [NodeWatch](https://nodewatch.io)
-* [Gnosis d14n](https://d14n.info/ethereum)
 * [Miga Labs Dashboard](https://monitoreth.io)
 * [Ethereum Nodes Statistics](https://ethernodes.org/)
 * [Ethstats](https://ethstats.dev)
 
 ## Diversity/Decentralization Dashboards
 
-* **[Etherclients.com](https://etherclients.com)** (Not responding 3/14/2024, remove if down at next check)
 * [Execution-Diversity](https://execution-diversity.info/)
 * [Client Diversity.org](https://clientdiversity.org)
 * [Ethernets.io Node Crawler](https://www.ethernets.io/)
-* [Ulisse](https://chainbound.grafana.net/public-dashboards/b39ed764b36548a2a74024eab3de2fe3?orgId=1&refresh=1h)
 
 ## Staking Dashboards
 
@@ -42,7 +39,7 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 
 * [L2 Beat](https://l2beat.com)
 * [L2 Fees dot info](https://l2fees.info/)
-* [growthepie](https://growthepie.xyz)
+* [growthepie](https://fees.growthepie.xyz/)
 * [Rollup.wtf](https://rollup.wtf)
 
 ## Blobs 
@@ -77,21 +74,18 @@ See these dashboards in a visual display: https://www.ethdash.xyz/ thanks to [@m
 * https://censorship.pics
 * https://reorg.pics
 * https://timing.pics
-* https://tornado.pics
 * https://mevwatch.info
 * https://eigenphi.io
 * https://www.inclusion.watch/
-* [MEV uptime info](https://mev-relays.beaconstate.info/) (Down on 3/14/2024, remove if down at next check)
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
-* [Metrika Relay Monitor](https://app.metrika.co/dashboard/ethereum/relay-monitor/north-america-east?tr=30m)
 * [Rated.Network Relay Landscape](https://www.rated.network/relays?network=mainnet)
 * [LibMev](https://libmev.com/dashboard)
 
 
 # Related Projects (Other Dashboard Aggregators)
 
-* [EthDash](https://www.ethdash.xyz/)
+* [Nexeth](https://explorer.nexeth.xyz/dashboards)
 * [Panarama](https://panarama.xyz/) 
 * [Alphaday](https://app.alphaday.com/)
 * [Staking Directory](https://staking.directory)
