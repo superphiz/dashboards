@@ -58,6 +58,8 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [UltraSound Money](https://ultrasound.money/)
 * [Ratio Gang](https://ratiogang.com/)
 * [Flippening Watch](https://www.flippening.watch/)
+* [Crypto Fees](https://cryptofees.info/)
+* [Money Settlers](https://money-movers.info/)
 
 ## DeFi Dashboards
 
