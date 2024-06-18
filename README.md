@@ -66,6 +66,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [DeFi Llama](https://defillama.com/)
 * [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit/)
 * [Stablecoins.wtf](https://stablecoins.wtf/)
+* [Vaults.fyi](https://vaults.fyi/)
 
 
 ## MEV & PBS Dashboards
