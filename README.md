@@ -19,6 +19,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Execution-Diversity](https://execution-diversity.info/)
 * [Client Diversity.org](https://clientdiversity.org)
 * [Ethernets.io Node Crawler](https://www.ethernets.io/)
+* [Ulisse from Chainbound](https://chainbound.grafana.net/public-dashboards/d001850804e1454fa24852c9dd82db97)
 
 ## Staking Dashboards
 
