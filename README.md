@@ -13,6 +13,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Miga Labs Dashboard](https://monitoreth.io)
 * [Ethereum Nodes Statistics](https://ethernodes.org/)
 * [Ethstats](https://ethstats.dev)
+* [ethPandaOps Live Slot Visualizer](https://lab.ethpandaops.io/beacon/slot/live?network=mainnet)
 
 ## Diversity/Decentralization Dashboards
 
