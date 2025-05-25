@@ -73,7 +73,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 ## MEV & PBS Dashboards
 * [Mempool.pics](https://mempool.pics)
 * https://payload.de/data/
-* https://transparency.flashbots.net
 * https://mevboost.pics
 * https://censorship.pics
 * https://reorg.pics
@@ -83,7 +82,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * https://www.inclusion.watch/
 * [Chainanalytics MEV](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
-* [Rated.Network Relay Landscape](https://www.rated.network/relays?network=mainnet)
 * [LibMev](https://libmev.com/dashboard)
 
 
