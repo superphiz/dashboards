@@ -47,9 +47,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [growthepie](https://fees.growthepie.xyz/)
 * [Rollup.wtf](https://rollup.wtf)
 * [RollupCodes](https://www.rollup.codes/)
-* [Arbitrum Dashboard](https://arbdashboard.xyz)
-* [Optimism Dashboard](https://optimismdashboard.xyz)
-* [Polygon Dashboard](https://polygondashboard.xyz)
 
 ## Blobs 
 
