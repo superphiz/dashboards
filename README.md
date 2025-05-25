@@ -33,7 +33,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Beaconchain](https://beaconcha.in)
 * [Rocket Pool](https://rocketscan.io)
 * [Hildobby's ETH Staking Dashboard](https://dune.com/hildobby/eth2-staking)
-* [Lucky Staker](https://luckystaker.com/home)
 * [Nansen Staking dashboard](https://pro.nansen.ai/eth2-deposit-contract)
 * [Validator Queue Monitoring](https://validator-queue-monitoring.vercel.app/)
 * [WenMerge with queue data](https://wenmerge.com)
