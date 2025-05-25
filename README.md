@@ -53,7 +53,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Hildobby's Dune Dashboard for Blobs](https://dune.com/hildobby/blobs)
 * [Blobscan](https://blobscan.com)
 * [Grow The Pie](https://fees-growthepie.xyz)
-* [Ethernow](http://ethernow.xyz)
 * [0xRob's Dune Dashboard for Blobs](https://dune.com/0xRob/blobs)
 
 ## Restaking Dashboards
