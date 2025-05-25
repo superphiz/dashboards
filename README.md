@@ -55,9 +55,6 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Grow The Pie](https://fees-growthepie.xyz)
 * [0xRob's Dune Dashboard for Blobs](https://dune.com/0xRob/blobs)
 
-## Restaking Dashboards
-* [Restaking dashboard from Nethermind](https://restaking.nethermind.io/)
-
 ## Monetary Policy Dashboards
 
 * [UltraSound Money](https://ultrasound.money/)
