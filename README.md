@@ -16,6 +16,10 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [ethPandaOps Live Slot Visualizer](https://lab.ethpandaops.io/beacon/slot/live?network=mainnet)
 * [Ethereum Dashboard](https://ethereumdashboard.dev)
 
+## Zero Knowledge Proof Dashboards
+
+* [Ethproofs.org](https://ethproofs.org/)
+
 ## Diversity/Decentralization Dashboards
 
 * [Execution-Diversity](https://execution-diversity.info/)
