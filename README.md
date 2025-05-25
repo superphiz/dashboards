@@ -88,6 +88,5 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 # Related Projects (Other Dashboard Aggregators)
 
 * [Nexeth](https://explorer.nexeth.xyz/dashboards)
-* [Panarama](https://panarama.xyz/) 
 * [Alphaday](https://app.alphaday.com/)
 * [Staking Directory](https://staking.directory)
