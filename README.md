@@ -15,6 +15,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Ethstats](https://ethstats.dev)
 * [ethPandaOps Live Slot Visualizer](https://lab.ethpandaops.io/beacon/slot/live?network=mainnet)
 * [Ethereum Dashboard](https://ethereumdashboard.dev)
+* [growthepie](https://www.growthepie.com/ethereum-ecosystem/metrics)
 
 ## Zero Knowledge Proof Dashboards
 
@@ -44,7 +45,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 
 * [L2 Beat](https://l2beat.com)
 * [L2 Fees dot info](https://l2fees.info/)
-* [growthepie](https://fees.growthepie.xyz/)
+* [growthepie](https://growthepie.com/)
 * [Rollup.wtf](https://rollup.wtf)
 * [RollupCodes](https://www.rollup.codes/)
 
@@ -52,7 +53,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 
 * [Hildobby's Dune Dashboard for Blobs](https://dune.com/hildobby/blobs)
 * [Blobscan](https://blobscan.com)
-* [Grow The Pie](https://fees-growthepie.xyz)
+* [growthepie](https://www.growthepie.com/data-availability)
 * [0xRob's Dune Dashboard for Blobs](https://dune.com/0xRob/blobs)
 
 ## Monetary Policy Dashboards
@@ -62,6 +63,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 * [Flippening Watch](https://www.flippening.watch/)
 * [Crypto Fees](https://cryptofees.info/)
 * [Money Settlers](https://money-movers.info/)
+* [ethismoney](https://ethismoney.xyz)
 
 ## DeFi Dashboards
 
