@@ -69,6 +69,7 @@ See these dashboards in a [visual display](https://explorer.nexeth.xyz/dashboard
 
 * [DeFi Llama](https://defillama.com/)
 * [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit/)
+* [Pharos](https://pharos.watch/)
 * [Stablecoins.wtf](https://stablecoins.wtf/)
 
 
